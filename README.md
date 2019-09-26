@@ -1,6 +1,6 @@
 # nbr_prm
 - A script to calculate the **prime numbers** between Mini and Maxi.
-- And a file with the first 7,805 prime numbers.
+- And a file with the first 70,805 prime numbers.
 
 ``` python
 def nbpre(mini,maxi):
